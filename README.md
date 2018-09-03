@@ -1,4 +1,6 @@
 # Functions Emulator for Python 3.7
+Note: this only for http-trigger functions
+
 Recently, Google Cloud Functions gives support to upload Python scripts. However, there is no emulator for this.
 
 ## How to Use
