@@ -1,0 +1,6 @@
+.gcloudignore
+env
+.env.yaml
+.env.yaml.example
+__pycache__
+*.sh

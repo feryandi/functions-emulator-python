@@ -1,0 +1,13 @@
+# dotenv environment variables file
+env
+.env
+.env.yaml
+.env.staging.yaml
+.env.dev.yaml
+
+.vscode
+
+__pycache__
+.pyc
+
+.runner.py
